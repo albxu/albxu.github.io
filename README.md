@@ -1,2 +1,2 @@
 # albxu.github.io
-A website
+A cool website.
